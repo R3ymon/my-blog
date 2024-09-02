@@ -1,0 +1,8 @@
+.max-w-md {
+  max-width: 28rem; /* 448px */
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
